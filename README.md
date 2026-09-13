@@ -86,12 +86,12 @@ Pontuação inicial padrão: **100 pontos**
 
 ou
 
-2. Monte na placa de ensaio
-3. Abra o arquivo `slot_machine.ino` na **Arduino IDE**.
-4. Conecte a placa Arduino Uno ao computador.
-5. Selecione a porta COM e a placa `Arduino Uno`.
-6. Compile e faça o upload do código.
-7. Abra o **Monitor Serial** (`Ctrl + Shift + M`) para acompanhar os logs das rodadas.
+2. Monte fisicamente
+4. Abra o arquivo `slot_machine.ino` na **Arduino IDE**.
+5. Conecte a placa Arduino Uno ao computador.
+6. Selecione a porta COM e a placa `Arduino Uno`.
+7. Compile e faça o upload do código.
+8. Abra o **Monitor Serial** (`Ctrl + Shift + M`) para acompanhar os logs das rodadas.
 
 ---
 
