@@ -82,12 +82,12 @@ Pontuação inicial padrão: **100 pontos**
 
 ##  Como Rodar o Projeto
 
-1. acesse: 
+1. acesse: https://www.tinkercad.com/things/hJsrjMqw4S1-slot-machine-com-sistema-de-pontuacao?sharecode=j0kjB2xNQNd-7D8eVCP9ApnfVhVUF0iyMi2VX0NhFzM
 
 ou
 
 2. Monte fisicamente
-4. Abra o arquivo `slot_machine.ino` na **Arduino IDE**.
+4. Abra o arquivo `Slot Machine com Sistema de Pontuação.ino` na **Arduino IDE**.
 5. Conecte a placa Arduino Uno ao computador.
 6. Selecione a porta COM e a placa `Arduino Uno`.
 7. Compile e faça o upload do código.
