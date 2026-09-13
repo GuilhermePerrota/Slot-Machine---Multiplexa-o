@@ -8,7 +8,7 @@ Este projeto demonstra conceitos fundamentais de engenharia de software e hardwa
 
 ## Esquemático / Circuito
 
-<img width="798" height="522" alt="image" src="https://github.com/user-attachments/assets/b35dfb39-cee5-42b5-8a06-e3163ff9ff07" />
+<img width="874" height="531" alt="image" src="https://github.com/user-attachments/assets/9730ccc5-66a8-405d-abf1-ceb41e88ca4d" />
 
 ---
 
